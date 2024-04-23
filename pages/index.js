@@ -11,9 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="For Sale" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+              PID 7525695</code>
+        </p>
+        <p>
+              test
         </p>
       </main>
 
